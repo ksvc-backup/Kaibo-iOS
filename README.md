@@ -3,9 +3,14 @@
 开播是金山云移动直播全套解决方法示例，提供全套服务器端、客户端代码，可以快速部署并上线移动直播业务。
 ### 1. 下载
 
-点击从AppStore下载：
+* 点击从AppStore下载：
 
 [![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/logo.png)](https://appsto.re/cn/qJxaib.i)
+
+
+* 扫描二维码下载：
+
+[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/kaibo-qr.png)](https://appsto.re/cn/qJxaib.i)
 
 
 ### 2. 效果展示
