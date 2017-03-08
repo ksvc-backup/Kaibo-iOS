@@ -19,3 +19,10 @@
 | :---: | :---:| :---:|
 |![ScreenShot](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/previewv1.0.1.png)|![ScreenShot](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/streamv1.0.1.png)|![ScreenShot](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-Android/images/playerv1.0.1.jpg)|
 
+### 3. 反馈
+* 主页：[金山云](http://www.ksyun.com/)
+* 邮箱：<zengfanping@kingsoft.com>
+* QQ讨论群：574179720 [视频云技术交流群] 
+* Issues:<https://github.com/ksvc/Kaibo-iOS/issues>
+
+<a href="http://www.ksyun.com/"><img src="http://www.ksyun.com/assets/img/static/logo.png" border="0" alt="金山云计算" /></a>
