@@ -6,12 +6,12 @@
 
 * 点击从AppStore下载：
 
-[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/logo.png)](https://appsto.re/cn/qJxaib.i)
+[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/logo.png)][appstore]
 
 
 * 扫描二维码下载：
 
-[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/kaibo-qr.png)](https://appsto.re/cn/qJxaib.i)
+[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-iOS/images/kaibo-qr.png)][appstore]
 
 
 ### 2. 效果展示
@@ -34,3 +34,5 @@
 * Issues:<https://github.com/ksvc/Kaibo-iOS/issues>
 
 <a href="http://www.ksyun.com/"><img src="https://raw.githubusercontent.com/wiki/ksvc/KSYLive_Android/images/logo.png" border="0" alt="金山云计算" /></a>
+
+[appstore]:https://itunes.apple.com/us/app/%E5%BC%80%E6%92%AD-%E9%87%91%E5%B1%B1%E4%BA%91/id1208056016?mt=8
